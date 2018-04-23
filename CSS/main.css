@@ -30,3 +30,12 @@
 	height: 200px;
 	background: #ebde52;
 }
+
+.black{
+    background: black;
+    position: absolute;
+    top: 39%;
+    left: 41%;
+    width: 40px;
+    height: 40px;
+}
