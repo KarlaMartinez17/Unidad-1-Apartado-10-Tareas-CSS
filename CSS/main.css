@@ -1,0 +1,53 @@
+header, footer{
+  background-color: #f8c017;
+  border: 1px solid black;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-size: 25px;
+  font-family: 'Muli', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+footer{
+  font-size: 18px;
+}
+
+footer a{
+  color: purple;
+}
+
+div{
+  border: 1px solid black;
+  float: left;
+  height: 100%;
+  width: 33.333%;
+  box-sizing: border-box;
+  text-align: center;
+  padding: 35px;
+}
+
+.div_padre{
+  height: 500px;
+  width: 100%;
+  background-color: white;
+
+}
+
+#img1{
+  padding-top: 20%;
+  max-width: 80%;
+}
+
+#img2{
+  padding-top: 0%;
+  max-width: 80%;
+  height: 45%;
+}
+
+
+body{
+  padding: 10px 100px;
+  font-family: 'Muli', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
